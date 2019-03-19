@@ -7,5 +7,5 @@ python3.6 + torchtext0.4.0
 without any pre-trained word embedding 
 
 
-[torchtext](http://mlexplained.com/2018/02/08/a-comprehensive-tutorial-to-torchtext/)  
+[torchtext-tutorial](http://mlexplained.com/2018/02/08/a-comprehensive-tutorial-to-torchtext/)  
 [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)
